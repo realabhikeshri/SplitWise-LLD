@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitWise-LLD", "SplitWise-LLD\SplitWise-LLD.csproj", "{853E0EEB-B2D1-455B-870F-6BFB8C1B6CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853E0EEB-B2D1-455B-870F-6BFB8C1B6CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853E0EEB-B2D1-455B-870F-6BFB8C1B6CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853E0EEB-B2D1-455B-870F-6BFB8C1B6CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853E0EEB-B2D1-455B-870F-6BFB8C1B6CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E765A3-E317-4071-AA0A-BA79ABFF8424}
+	EndGlobalSection
+EndGlobal
